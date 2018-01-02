@@ -1,2 +1,2 @@
 # Profit-Trailer
-Trading Bot Config File for Different Strategies
+Trading Bot Config Files for Different Strategies
