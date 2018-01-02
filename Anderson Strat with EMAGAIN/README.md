@@ -18,10 +18,10 @@
  
  THE PRICE IN BTC YOU WILL MAKE THE FIRST BUY AT:
  
- ALL_max_cost = 0 
- ALL_max_cost_percentage = 1 
- ALL_min_buy_balance = 0 
- ALL_min_buy_balance_percentage = 60
+  ALL_max_cost = 0 
+  ALL_max_cost_percentage = 1 
+  ALL_min_buy_balance = 0 
+  ALL_min_buy_balance_percentage = 60
  
  This preserves 60% of your BTC balance.
  
