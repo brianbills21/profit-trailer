@@ -12,7 +12,7 @@
  
  BTW, don't panic when you see PT start buying up everything in site and leaving you with a low BTC balance,
  
- it cleares the bags in less than a day.
+ it clears the bags in less than a day.
  
  Oh and, if you want to HODL a percentage of you BTC without spending it all, here are some parameters:
  
