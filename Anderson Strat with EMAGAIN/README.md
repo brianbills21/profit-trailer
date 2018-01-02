@@ -4,7 +4,7 @@
  
  With this strategy, I have a setting that will pay to keep dust from accumulating, all you have to do is
  
- buy 2 BNB tokens on Binance and leave them in there.
+ buy 2 BNB tokens (Current Price Per Token $8.70) on Binance and leave them in there.
  
  If you want to, but you don't have to, please donate whatever you can.
  
