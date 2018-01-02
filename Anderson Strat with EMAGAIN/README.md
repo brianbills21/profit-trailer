@@ -1,6 +1,6 @@
  This one is for Binance and it started making me $300 a day with a budget of .2 BTC.
  
- I started with $2600 and today on 01/02/2017 at 8:36 AM -8 GMT I have $3210, that's less than 2 full days of trading.
+ I started with $2600 and today on 01/02/2018 at 8:36 AM -8 GMT I have $3210, that's less than 2 full days of trading.
  
  With this strategy, I have a setting that will pay to keep dust from accumulating, all you have to do is
  
