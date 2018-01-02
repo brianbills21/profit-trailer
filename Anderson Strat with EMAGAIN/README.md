@@ -10,6 +10,6 @@
  
  LTC Wallet (Cheaper Fees): LKmfbzaPgUMKPR6fXYG3hWtASYqPtquE73
  
- BTW, don't panic when you see pT start buying up everything in site and leaving you with a low BTC balance,
+ BTW, don't panic when you see PT start buying up everything in site and leaving you with a low BTC balance,
  
  it cleares the bags in less than a day.
