@@ -13,3 +13,16 @@
  BTW, don't panic when you see PT start buying up everything in site and leaving you with a low BTC balance,
  
  it cleares the bags in less than a day.
+ 
+ Oh and, if you want to HODL a percentage of you BTC without spending it all, here are some parameters:
+ 
+ THE PRICE IN BTC YOU WILL MAKE THE FIRST BUY AT:
+ 
+ ALL_max_cost = 0 
+ ALL_max_cost_percentage = 1 
+ ALL_min_buy_balance = 0 
+ ALL_min_buy_balance_percentage = 60
+ 
+ This preserves 60% of your BTC balance.
+ 
+ But truthfully, I don't care what form my money is in, I want max profits.
