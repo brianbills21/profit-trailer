@@ -24,7 +24,7 @@
  
 - It clears the bags in less than a day if you're patient.
  
-- Oh and, if you want to reserve a percentage of you BTC without spending it all, here are some parameters:
+- Oh and, if you want to reserve a percentage of your BTC without spending it all, here are some parameters:
 ```
  THE PRICE IN BTC YOU WILL MAKE THE FIRST BUY AT:
  
