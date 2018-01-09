@@ -1,4 +1,4 @@
-**Condition for using this strategy:** 
+#**Condition for using this strategy:** 
 
 
 - When you look on [CoinMarketCap](https://coinmarketcap.com/), and you see most of the Alts in green accross the board.
