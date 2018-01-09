@@ -1,7 +1,7 @@
 # Profit-Trailer
 Trading Bot Config Files for Different Strategies
 
-# To make life easier on your Linux VPS
+## To make life easier on your Linux VPS
 
 1. Untar the following file: `tar xvfz pt_scripts.tar.gz`
 2. Put the file `pt` in: `/etc/init.d`
@@ -20,7 +20,7 @@ Trading Bot Config Files for Different Strategies
 cd /home/bbills/ProfitTrailer
 nohup java -jar ProfitTrailer.jar -XX:+UseConcMarkSweepGC -Xmx256m -Xms256m >> ProfitTrailer.out 2>&1&
 ```
-# Note:	
+## Note:	
 - pt wouldn't start from my home dir without changing directory into where the `ProfitTrailer.jar` file is.
 - It seems that the jar file doesn't see it's dependencies if you call it with a path.
 - You could always just put the ProfitTraler folder under `/usr/bin` if you wanted to.
