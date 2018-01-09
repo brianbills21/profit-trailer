@@ -23,5 +23,5 @@ nohup java -jar ProfitTrailer.jar -XX:+UseConcMarkSweepGC -Xmx256m -Xms256m >> P
 ```		
 - pt wouldn't start from my home dir without changing directory into where the `ProfitTrailer.jar` file is.
 - It seems that the jar file doesn't see it's dependencies if you call it with a path.
-- You could always just put the ProfitTraler folder under /usr/bin if you wanted to.
+- You could always just put the ProfitTraler folder under `/usr/bin` if you wanted to.
 - But you'll have to change that path to where you have pt installed.
