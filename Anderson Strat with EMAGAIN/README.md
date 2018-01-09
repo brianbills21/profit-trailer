@@ -1,4 +1,4 @@
-#**Condition for using this strategy:** 
+# **Condition for using this strategy:** 
 
 
 - When you look on [CoinMarketCap](https://coinmarketcap.com/), and you see most of the Alts in green accross the board.
@@ -10,7 +10,7 @@
 - If BTC starts going up or down more than 5%, take these settings out right away and put your more conservative settings back in.
 
 
-**Notes:**
+# **Notes:**
 
 
 - This one is for Binance and it started making me $300 a day with a budget of .2 BTC.
