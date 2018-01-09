@@ -18,7 +18,7 @@
  
 - To avoid dust, use this setting: `BNBBTC_trading_enabled = false` and buy 2 or 3 BNB tokens `(Current Price Per Token $8.70 01/02/2018 at 8:36 AM -8 GMT)`.
  
-# BTW: 
+## BTW: 
 
 - Don't panic when you see PT start buying up everything in site and leaving you with a low BTC balance.
  
