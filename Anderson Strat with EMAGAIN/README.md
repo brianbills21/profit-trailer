@@ -5,9 +5,13 @@
 
 - And if BTC is failrly stable, `if that's possible`, then go ahead and use this setting.
 
-- **Warning, it will use up all your BTC in trades, and you have to keep a really close eye on BTC**
 
-- **If BTC starts going up or down more than 5%, take these settings out right away and put your more conservative settings back in.**
+## **Warning 
+
+
+- it will use up all your BTC in trades, and you have to keep a really close eye on BTC
+
+- If BTC starts going up or down more than 5%, take these settings out right away and put your more conservative settings back in.
 
 
 ## **Notes:**
