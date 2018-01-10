@@ -5,7 +5,7 @@ Trading Bot Config Files for Different Strategies
 
 1. Untar the following file: `tar xvfz pt_scripts.tar.gz`
 2. Put the file `pt` in: `/etc/init.d`
-3. Put the following files: `pt-log.sh  pt-start.sh  pt-status.sh  pt-stop.sh` in `/usr/bin`
+3. Put the following files: `pt-log.sh  pt-start.sh  pt-status.sh  pt-stop.sh pt-reload.sh` in `/usr/bin`
 4. Type `cd` and hit return
 5. Put the following line at the bottom of your `~/.bashrc` file: `PATH=$PATH:/etc/init.d`
 6. Now type `source ~/.bashrc` and hit return
