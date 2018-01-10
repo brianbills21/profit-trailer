@@ -18,7 +18,7 @@ Trading Bot Config Files for Different Strategies
 12. You'll have to change a little bit in the `/usr/bin/pt-start.sh` file:
 ```
 cd /home/bbills/ProfitTrailer # <==Change this to where you have the ProfitTrailer folder
-nohup java -jar ProfitTrailer.jar -XX:+UseConcMarkSweepGC -Xmx256m -Xms256m >> ProfitTrailer.out 2>&1& # <==Same with this line
+nohup java -jar ProfitTrailer.jar -XX:+UseConcMarkSweepGC -Xmx256m -Xms256m >> ProfitTrailer.out 2>&1&
 ```
 ## Note:	
 - PT wouldn't start from my home dir without changing directory into where the `ProfitTrailer.jar` file is.
