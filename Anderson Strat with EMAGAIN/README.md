@@ -16,7 +16,7 @@
  
 - I started with a total value of $2600 and today on 01/02/2018 at 8:36 AM -8 GMT I have $3210, that's less than 2 full days of trading.
  
-- To avoid dust and get half off on fees, use this setting: `BNBBTC_trading_enabled = false` and buy 2 or 3 BNB tokens `(Current Price Per Token $8.70 01/02/2018 at 8:36 AM -8 GMT)`.
+- To avoid dust and get 0.25 off on fees, use this setting: `BNBBTC_trading_enabled = false` and buy 2 or 3 BNB tokens `(Current Price Per Token $8.70 01/02/2018 at 8:36 AM -8 GMT)`.
  
 ## BTW: 
 
