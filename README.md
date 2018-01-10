@@ -9,7 +9,7 @@ Trading Bot Config Files for Different Strategies
 4. Type `cd` and hit return
 5. Put the following line at the bottom of your `~/.bashrc` file: `PATH=$PATH:/etc/init.d`
 6. Now type `source ~/.bashrc` and hit return
-7. Now to start pt, you just type: `pt start`
+7. Now to start PT, you just type: `pt start`
 8. To stop pt, you type: `pt stop`
 9. To restart pt, you type: `pt restart`
 10. To see the status of pt, you type: `pt status`
