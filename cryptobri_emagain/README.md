@@ -2,7 +2,7 @@
 
 - When you look on [CoinMarketCap](https://coinmarketcap.com/), and you see most of the Alts in green accross the board.
 
-- And if BTC is failrly stable, `if that's possible`, then go ahead and use this setting.
+- And if BTC is failrly stable, `if that's possible`, then go ahead and use these settings.
 
 ## Warning 
 
